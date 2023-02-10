@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/akijoey/xterm-addon-web-fonts/compare/v1.0.0...v1.0.1) (2023-02-10)
+
+
+### Bug Fixes
+
+* build badge ([d4b736b](https://github.com/akijoey/xterm-addon-web-fonts/commit/d4b736b0bbe4e1cfa7e453ebffe423e7c870a47b))
+
 # 1.0.0 (2022-09-09)
 
 
